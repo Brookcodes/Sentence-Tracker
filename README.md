@@ -4,7 +4,7 @@ This repository contains my **Python programs** for the coursework tasks.
 
 ---
 
-## Task 2: Sentence Structure Application
+## Task: Sentence Structure Application
 
 This program takes a sentence as input from the user and performs the following actions:
 
