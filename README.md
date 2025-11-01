@@ -1,2 +1,7 @@
-# Sentence-Tracker
-Finding the number of words, vowels and consonants in a given sentence
+# Sentence Structure Application
+This Python program counts words, vowels and identifies the longest word.
+
+**Features:**
+Counts total words
+Finds the longest word
+Counts Vowels and consonants
